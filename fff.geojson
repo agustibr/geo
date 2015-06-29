@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00cc04",
+        "marker-size": "medium",
+        "marker-symbol": "parking",
+        "name": "Platja Grifeu (LlanÃ§a)",
+        "amenity": "FurgoPerfecto",
+        "popupContent": "Parking GratuÃ¯t, Dutxes, Lavabos, accÃ©s directe a platja, Xiringuito",
+        "date": "26/06/2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1552165746688843,
+          42.38143184377288
+        ]
+      }
+    }
+  ]
+}
