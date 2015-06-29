@@ -4,12 +4,12 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#00cc04",
         "marker-size": "medium",
         "marker-symbol": "parking",
-        "name": "Platja Grifeu (Llança)",
+        "name": "Platja Grifeu (LlanÃ§a)",
         "amenity": "FurgoPerfecto",
-        "popupContent": "Parking Gratuït, Dutxes, Lavabos, accés directe a platja, Xiringuito",
+        "popupContent": "Parking GratuÃ¯t, Dutxes, Lavabos, accÃ©s directe a platja, Xiringuito",
         "date": "26/06/2015"
       },
       "geometry": {
@@ -17,6 +17,25 @@
         "coordinates": [
           3.1552165746688843,
           42.38143184377288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00cc04",
+        "marker-size": "medium",
+        "marker-symbol": "parking",
+        "name": "Platja Pals",
+        "amenity": "FurgoPerfecto",
+        "popupContent": "Parking Gratuit, acces directe a platja",
+        "date": "26/03/2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.20701003074646,
+          41.98022194438171
         ]
       }
     }
