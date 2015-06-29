@@ -19,24 +19,6 @@
           42.38143184377288
         ]
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "harbor",
-        "amenity": "Cala",
-        "popupContent": "Parking Aprop, admenten gossos, cala de códols",
-        "date": "27/06/2015"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.2865321636199947,
-          42.30356299998095
-        ]
-      }
     }
   ]
 }
