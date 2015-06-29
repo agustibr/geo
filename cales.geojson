@@ -1,14 +1,13 @@
 {
   "type": "FeatureCollection",
   "features": [
-    
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#00bbd3",
         "marker-size": "medium",
         "marker-symbol": "harbor",
-        "amenity": "Cala",
+        "amenity": "Cala Es Jonquet",
         "popupContent": "Parking Aprop, admenten gossos, cala de códols",
         "date": "27/06/2015"
       },
@@ -17,6 +16,24 @@
         "coordinates": [
           3.2865321636199947,
           42.30356299998095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00bbd3",
+        "marker-size": "medium",
+        "marker-symbol": "harbor",
+        "amenity": "Cala Pedrosa",
+        "popupContent": "Parking a 15min sender local, admenten gossos, cala de códols",
+        "date": "20/05/2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1949400901794434,
+          42.083222565205375
         ]
       }
     }
