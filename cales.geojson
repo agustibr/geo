@@ -6,7 +6,7 @@
       "properties": {
         "marker-color": "#00bbd3",
         "marker-size": "medium",
-        "marker-symbol": "harbor",
+        "marker-symbol": "heart",
         "amenity": "Cala Es Jonquet",
         "popupContent": "Parking Aprop, admenten gossos, cala de códols",
         "date": "27/06/2015"
@@ -34,6 +34,23 @@
         "coordinates": [
           3.1949400901794434,
           42.083222565205375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f677ff",
+        "marker-symbol": "harbor",
+        "amenity": "Cala Pelosa",
+        "popupContent": "No he estat",
+        "date": "02/07/2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.243942,
+          42.249721
         ]
       }
     }
