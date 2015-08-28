@@ -38,6 +38,25 @@
           41.98022194438171
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00cc04",
+        "marker-size": "medium",
+        "marker-symbol": "parking",
+        "name": "Riu LLierca",
+        "amenity": "FurgoPerfecto",
+        "popupContent": "a la vora del riu per fer un dinaret",
+        "date": "26/08/2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.608601,
+          42.234740
+        ]
+      }
     }
   ]
 }
