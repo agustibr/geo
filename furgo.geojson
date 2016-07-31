@@ -57,6 +57,25 @@
           42.234740
         ]
       }
-    }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00cc04",
+        "marker-size": "medium",
+        "marker-symbol": "parking",
+        "name": "Carretera Oix a Beget",
+        "amenity": "FurgoPerfecto",
+        "popupContent": "Pots passar la nit, veus la posta i sortida del sol",
+        "date": "26/03/2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.501361,
+          42.284770
+        ]
+      }
+    },
   ]
 }
